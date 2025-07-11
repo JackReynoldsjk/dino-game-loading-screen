@@ -4,12 +4,12 @@ This loading screen bundles his full game so you don’t have to worry about ads
 Join our Discord to share high scores, tweaks, or just say hi:
 👉 https://discord.gg/wzUq3J7HXa
 
-Enjoy your new loading screen—and happy jumping!
+Enjoy your new loading
 
 # 🦖 Dino Loading Screen for FiveM
 
 **Version:** `1.0.0`  
-**Author:** TLDR Development  
+**Author:** Snorff | TLDR Development  
 **License:** MIT  
 
 ---
@@ -17,7 +17,6 @@ Enjoy your new loading screen—and happy jumping!
 ## 🎉 What Is This?
 
 A completely free, Dino game loading screen for your FiveM server.  
-While your RP world loads, your players can tunnel-jump into the classic Dino game—no ads, no iframes, no external dependencies.
 
 ---
 

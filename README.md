@@ -1,3 +1,11 @@
+Thanks to Wayou for the original t-rex-runner open-source project.
+This loading screen bundles his full game so you don’t have to worry about ads or external links.
+
+Join our Discord to share high scores, tweaks, or just say hi:
+👉 https://discord.gg/wzUq3J7HXa
+
+Enjoy your new loading screen—and happy jumping!
+
 # 🦖 Dino Loading Screen for FiveM
 
 **Version:** `1.0.0`  
